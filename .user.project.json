@@ -1,0 +1,130 @@
+{
+  "run": [
+    {
+      "filePath": "/JS/PROJ01/webapp/index4.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1385145,
+        "displayName": "Run index4.html",
+        "lastRunTimeStamp": 1499573034045
+      }
+    },
+    {
+      "filePath": "/JS/PROJ01/webapp/index3.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1181700,
+        "displayName": "Run index3.html",
+        "lastRunTimeStamp": 1499571085724
+      }
+    },
+    {
+      "filePath": "/JS/PROJ01/webapp/index2.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7333824,
+        "displayName": "Run index2.html",
+        "lastRunTimeStamp": 1499570172791
+      }
+    },
+    {
+      "filePath": "/JS/PROJ01/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8864359,
+        "displayName": "Run index.html 3",
+        "lastRunTimeStamp": 1499566863863
+      }
+    },
+    {
+      "filePath": "/CSS/CSSADV_BOX/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 2032145,
+        "displayName": "Run index.html 2",
+        "lastRunTimeStamp": 1499487132370
+      }
+    },
+    {
+      "filePath": "/HTML/PROJ01/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8054506,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1499485407325
+      }
+    },
+    {
+      "filePath": "/CSS/CSSADV/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7372158,
+        "displayName": "Run index.html 1",
+        "lastRunTimeStamp": 1499478468505
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			div{
+				float : left;
+				width:300px;
+				height : 100px;
+				margin : 4px;
+				color : #ffffff;
+				font-size:30px;
+				padding:20px;
+			}
+		#gradient1{
+			background : linear-gradient(turquoise, #000000);
+		}	
+		#gradient2{
+			background : linear-gradient(turquoise, transparent, magenta);
+		}
+		#gradient3{
+			background : linear-gradient(turquoise 30%, transparent 10%, magenta 60%);
+		}
+		#gradient4{
+			background : linear-gradient(turquoise 30%, transparent 10%, black 10%, magenta 40%);
+		}
+		#gradient5{
+			/* for chrome*/
+			background :-webkit-linear-gradient(bottom,turquoise, black, magenta);
+			/* for mozilla firefox*/
+			background :-moz-linear-gradient(bottom,turquoise, black, magenta);
+			background :-ms-linear-gradient(bottom,turquoise, black, magenta);
+			background :-o-linear-gradient(bottom,turquoise, black, magenta);
+			background :linear-gradient(bottom,turquoise, black, magenta);
+		}
+		
+		#gradient6{
+			/* for chrome*/
+			background :-webkit-linear-gradient(bottom left,turquoise, black, magenta);
+			/* for mozilla firefox*/
+			background :-moz-linear-gradient(bottom,turquoise, black, magenta);
+			background :-ms-linear-gradient(bottom,turquoise, black, magenta);
+			background :-o-linear-gradient(bottom,turquoise, black, magenta);
+			background :linear-gradient(bottom,turquoise, black, magenta);
+		}
+		
+		#gradient7{
+			/* for chrome*/
+			background :-webkit-linear-gradient(45deg,turquoise, black, magenta);
+			/* for mozilla firefox*/
+			background :-moz-linear-gradient(45deg,turquoise, black, magenta);
+			background :-ms-linear-gradient(45deg,turquoise, black, magenta);
+			background :-o-linear-gradient(45deg,turquoise, black, magenta);
+			background :linear-gradient(45deg,turquoise, black, magenta);
+		}
+		</style>
+	</head>
+	<body>
+		<div id="gradient1">1</div>
+		<div id="gradient2">2</div>
+		<div id="gradient3">3</div>
+		<div id="gradient4">4</div>
+		<div id="gradient5">5</div>
+		<div id="gradient6">6</div>
+		<div id="gradient7">7</div>
+	</body>
+</html>

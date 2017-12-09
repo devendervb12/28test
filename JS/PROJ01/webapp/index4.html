@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			
+		</style>
+	
+	</head>
+	<body id="idBody">
+
+	<script>
+       // assume that employee name & Deparmtent name is coming from SAP
+       var eName;
+       var dept = "SAP"
+      var oBody = document.getElementById("idBody");
+      
+       // eName
+       // condition
+       if(eName != undefined){
+       var eNameIp = document.createElement("input"); // <input>   
+       eNameIp.setAttribute("value",eName); // <input value="Devender">
+       oBody.appendChild(eNameIp);
+       }else{
+       	  var eNameIp = document.createElement("input"); // <input>   
+       eNameIp.setAttribute("value","Data Not Available"); // <input value="Devender">
+       oBody.appendChild(eNameIp);
+       }
+       
+     </script>
+	</body>
+</html> 
+
+
+
+
